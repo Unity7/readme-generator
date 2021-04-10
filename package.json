@@ -1,5 +1,5 @@
 {
-  "name": "potential-enigma",
+  "name": "readmegen",
   "version": "1.0.0",
   "description": "[How to create a Professional README](./readme-guide.md)",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Unity7/readme-generator/issues"
   },
-  "homepage": "https://github.com/Unity7/readme-generator#readme"
+  "homepage": "https://github.com/Unity7/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
