@@ -8,7 +8,6 @@ The program prompts the user about information regarding their Github repo. The 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 ## Installation
