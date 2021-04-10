@@ -1,4 +1,5 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
+
 // If there is no license, return an empty string
 function renderLicenseBadge(data) {
   if (data.license === "MIT") {
@@ -16,11 +17,11 @@ function renderLicenseBadge(data) {
 // If there is no license, return an empty string
 function renderLicenseLink(data) {
   if (data.license === "MIT") {
-    return `![https://choosealicense.com/licenses/mit/#]`;
+    return `For additional information about license policy visit: https://choosealicense.com/licenses/mit/#`;
   } else if (data.license === "GPL") {
-    return `![https://choosealicense.com/licenses/gpl-3.0/]`;
+    return `For additional information about license policy visit: https://choosealicense.com/licenses/gpl-3.0/`;
   } else if (data.license === "Apache") {
-    return `![https://choosealicense.com/licenses/apache-2.0/]`;
+    return `For additional information about license policy visit: https://choosealicense.com/licenses/apache-2.0/`;
   } else {
     return "";
   }
@@ -34,10 +35,10 @@ function renderLicenseSection(data) {
   } else {
     return (
       `\n## License
-${data.license}
-    ` +
+${data.license}` +
       "\n" +
-      renderLicenseLink(data)
+      renderLicenseLink(data) +
+      "\n"
     );
   }
 }
@@ -54,7 +55,6 @@ ${data.description}
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 
 ## Installation

@@ -1,8 +1,8 @@
-# Project Creator ![GPL](https://img.shields.io/badge/GPL-License-brightgreen)
+# we ![GPL](https://img.shields.io/badge/GPL-License-brightgreen)
 
 ## Description 
 
-This project will create your readme
+man
 
 ## Table of Contents
 
@@ -12,22 +12,22 @@ This project will create your readme
 * [License](#license)
 
 ## Installation
-clone the repo and then run npm install
+fuck
 
 ## Usage 
-Personal usage only
+all
 
 ## License
 GPL
-    
-![https://choosealicense.com/licenses/gpl-3.0/]
+For additional information about license policy visit: https://choosealicense.com/licenses/gpl-3.0/
+
 ## Contributing
-Open source
+that
 
 ## Tests
-local test
+noise
 
 ## Questions
-For additional questions feel free to contact: username@username.com
-GitHub: https://github.com/username
+For additional questions feel free to contact: it
+GitHub: https://github.com/did
 
