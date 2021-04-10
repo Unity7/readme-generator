@@ -2,7 +2,8 @@
 
 ## Description
 
-The program prompts the user about information regarding their Github repo. The program takes the users input and generates a professional readme.md file for the user.
+The program prompts the user about information regarding their Github repo.\
+The program takes the users input and generates a professional readme.md file for the user.
 
 ## Table of Contents
 
@@ -12,8 +13,8 @@ The program prompts the user about information regarding their Github repo. The 
 
 ## Installation
 
-Clone the Readme Generator Repo
-Run npm install in your terminal
+Clone the Readme Generator Repo\
+Run npm install in your terminal\
 Run index.js in the develop folder
 
 ## Usage
