@@ -15,7 +15,10 @@ The program takes the users input and generates a professional readme.md file fo
 
 Clone the Readme Generator Repo\
 Run npm install in your terminal\
-Run index.js in the develop folder
+Run index.js in the develop folder\
+
+Tutorial Video:\
+https://drive.google.com/file/d/1TeHCa6WYZgxfQdsSW6PDeEviyrF1Pe2v/view
 
 ## Usage
 

@@ -1,8 +1,8 @@
-# NodeJS Readme Generator ![MIT](https://img.shields.io/badge/MIT-License-brightgreen)
+# NodeJS Readme Generator Program ![MIT](https://img.shields.io/badge/MIT-License-brightgreen)
 
 ## Description 
 
-A program that takes in user input to generate a professional readme.md file
+This program takes in user input in order to output a professional readme.md file
 
 ## Table of Contents
 
@@ -11,22 +11,22 @@ A program that takes in user input to generate a professional readme.md file
 * [License](#license)
 
 ## Installation
-Clone the repo, run npm install, run index.js in develop folder
+run npm install, cd into develop folder, node index.js to run the application
 
 ## Usage 
-Usage is public and free
+This is an open source and free project
 
 ## License
 MIT
 For additional information about license policy visit: https://choosealicense.com/licenses/mit/#
 
 ## Contributing
-Open Source
+Open source and free
 
 ## Tests
-Local test
+local test
 
 ## Questions
-For additional questions feel free to contact: unity7email@email.com
+For additional questions feel free to contact: unity7@fakeemail.com
 GitHub: https://github.com/Unity7
 
